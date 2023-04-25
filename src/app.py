@@ -137,5 +137,3 @@ while True:
         initialize_game_over_panel()
         game_over.write("Player 2 wins!", align="center", font=("Courier", 24, "normal"))
         turtle.mainloop()
-
-        
